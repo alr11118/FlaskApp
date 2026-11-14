@@ -1,4 +1,8 @@
 # FlaskApp
+A simple Flask boilerplate for webapps :)
+
+## Demo
+![Website Home](Demo.png)
 
 ## Project Structure
 
